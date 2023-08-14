@@ -8,10 +8,10 @@
 2.  [Data Cleaning and Preparation](#2-data-cleaning-and-preparation)
 3.  [Exploratory Data Analysis](#3-exploratory-data-analysis)
 4.  [Data Visualization](#4-data-visualization)
-5.  [Summary](#6-summary)
-6.  [Key Findings](#7-key-findings)
-7.  [Further Insights and Future Steps](#8-further-insights-and-future-steps)
-8.  [GitHub Repository](#9-github-repository)
+5.  [Summary](#5-summary)
+6.  [Key Findings](#6-key-findings)
+7.  [Further Insights and Future Steps](#7-further-insights-and-future-steps)
+8.  [GitHub Repository](#8-github-repository)
 ## 1. Introduction
 
 ### Project Overview:
@@ -184,11 +184,13 @@ The interactive Tableau dashboard comes equipped with powerful filters, enabling
 #### Geographic Filters
 
 **Filter by District**: Focus your analysis on specific districts within São Paulo by choosing the desired district(s) from the dropdown menu. This allows you to explore the distinct real estate landscapes across different neighborhoods, providing insights into localized market dynamics.
+
 ## 5. Summary
 
 This project has provided a comprehensive analysis of the Sao Paulo real estate market, offering valuable insights that can guide potential buyers and renters in making informed decisions. Through a combination of SQL querying and Tableau visualization, we have explored various dimensions of property pricing, attributes, and neighborhood characteristics. By delving into amenities, room distribution, parking availability, and district-wise trends, we have gained a multifaceted understanding of the real estate landscape.
 
 The interactive Tableau dashboard allows users to dynamically filter and explore the dataset, offering personalized insights based on specific preferences and requirements. Whether it's choosing between sale or rent, or evaluating property size, rooms, suites, bathrooms, parking spaces, or amenities, this dashboard empowers stakeholders to navigate the complexities of the market with confidence.
+
 ## 6. Key Findings
 
 **Districts and Pricing**: The chosen districts at the heart of Sao Paulo tend to command higher prices, indicating the premium associated with central locations.
@@ -198,6 +200,7 @@ The interactive Tableau dashboard allows users to dynamically filter and explore
 **Amenities and Comfort**: The widespread presence of both swimming pools and elevators highlights the popularity of amenities and the convenience of elevators in apartment buildings.
 
 **Market Size and Desirability**: With nearly 7,000 available apartments in April 2019, Sao Paulo boasts a substantial real estate market, reflecting the city's desirability as the largest city in South America.
+
 ## 7. Further Insights and Future Steps
 
 While this project provides valuable insights, further exploration and enhancement possibilities exist:
@@ -207,6 +210,7 @@ While this project provides valuable insights, further exploration and enhanceme
 - Predictive modeling for future price projections.
 
 In conclusion, this project demonstrates data analysis power in guiding real estate decisions. Data-driven insights empower individuals and professionals to navigate the market with clarity and purpose.
+
 ## 8. Github Repository
 
 For all project files, including SQL queries, Tableau dashboard, and documentation, visit the [GitHub repository](https://github.com/amandaroj/RealEstateAnalysis). Feel free to explore, run queries, and interact with the dashboard to gain deeper insights into the São Paulo real estate market.
