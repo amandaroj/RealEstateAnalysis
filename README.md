@@ -22,7 +22,7 @@ São Paulo's intricate blend of culture, commerce, and lifestyle presents a uniq
 
 1. Sao Paulo Real Estate - Sale / Rent - April 2019
 2. https://www.kaggle.com/datasets/argonalyst/sao-paulo-real-estate-sale-rent-april-2019
-3. This dataset contains around 13.000 apartments for sale and for rent in the city of São Paulo, Brazil. The data comes from multiple sources, specifically from real estate classified websites.
+3. This dataset contains around 13.000 apartments for sale and rent in São Paulo, Brazil. The data comes from multiple sources, specifically from real estate classified websites.
 4. http://dados.prefeitura.sp.gov.br/dataset/distritos
 5. This dataset provides the shapefile for creating the map of Sao Paulo’s districts in Tableau
 
@@ -51,7 +51,7 @@ São Paulo's intricate blend of culture, commerce, and lifestyle presents a uniq
 
 **Spatial Data Enhancement**
 
-- While some latitude and longitude values were missing, they were intentionally left blank as apartments without these values were associated with specific postal code areas.
+Some latitude and longitude values were missing, but they were intentionally left blank as apartments without these values were associated with specific postal code areas.
 
 ## 2. Exploratory Data Analysis
 
@@ -60,7 +60,7 @@ During the initial phase of this real estate analysis project, I conducted explo
 1. **Average, Minimum, and Maximum Rent vs. Sale Prices**:
 Analyzed the average, minimum, and maximum apartment prices for both rent and sale negotiations.
 
-![Screenshot 2023-08-14 at 12.00.33 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3cd20b9-22e6-4532-a1a2-f4e456d76b45/Screenshot_2023-08-14_at_12.00.33_PM.png)
+![Avg Prices](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036222/reults-avg-prices_ebqnl9.png)
 
 1. **Average Prices in Sao Paulo per District, Including HOA**:
 Explored the average apartment prices in each district of Sao Paulo, considering negotiation type and HOA fees.
