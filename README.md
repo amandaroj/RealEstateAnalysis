@@ -82,14 +82,14 @@ ORDER BY avg_total_price DESC;
 1. **Top 10 Districts with the Most Available Apartments**:
 Identified the top 10 districts with the highest number of available apartments for buying or renting.
 
-![Screenshot 2023-08-14 at 12.02.54 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea5c2791-952a-4093-9b95-67bde5390d11/Screenshot_2023-08-14_at_12.02.54_PM.png)
+![Top 10](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036222/top-10-apts_ojuj3t.png)
 
 1. **Average Price by Number of Parking Spots Available**:
 Investigated the average apartment price based on the number of parking spots available.
 2. **Percentage of Apartments with Parking**:
 Calculated the percentage of apartments in Sao Paulo that have parking spots.
 
-![Screenshot 2023-08-14 at 12.08.05 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46903cdc-4576-4a4e-a6cc-1971b59a39ee/Screenshot_2023-08-14_at_12.08.05_PM.png)
+![Parking Percentage](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036221/results-parking_dljv6j.png)
 
 1. **Average Amount of Parking Spots per Apartment**:
 Explored the average number of parking spots per apartment that has parking.
@@ -148,25 +148,25 @@ I have created an interactive Tableau dashboard to visually represent the insigh
 
 This bar chart presents a side-by-side comparison of the average prices for rental and sale apartments in Sao Paulo. The visualization helps highlight any significant price variations between the two negotiation types.
 
-![Screenshot 2023-08-14 at 12.22.25 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d88a0f2e-8882-4539-ac66-e5a7aafd986a/Screenshot_2023-08-14_at_12.22.25_PM.png)
+![Avg Total Prices](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036221/avg-prices_koocvu.png)
 
 ### 2. Apartment Availability by District
 
 The map visualization provides a geographic representation of apartment availability across different districts of Sao Paulo. Each district is color-coded based on the number of apartments available, offering a comprehensive overview of the real estate market distribution.
 
-![Screenshot 2023-08-14 at 12.23.47 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84d90b69-78b7-4f36-af96-77b71f826196/Screenshot_2023-08-14_at_12.23.47_PM.png)
+![Apt Availability](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036222/apts-availability_uluucr.png)
 
 ### 3. District Analysis: Apartment Size and Price per Square Foot
 
 The heatmap visualization showcases the relationship between apartment sizes, price per square foot, and districts. By using color intensity, it allows for a quick comparison of district-wise average sizes and price per square foot.
 
-![Screenshot 2023-08-14 at 12.24.20 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a8af7bd-d5dd-4f22-be2f-c004f92cfdf3/Screenshot_2023-08-14_at_12.24.20_PM.png)
+![sizes](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036221/avg-sizes_ojxsgw.png)
 
 ### 4. Amenity Combinations Impact
 
 This bar chart displays the impact of different amenity combinations on apartment prices. It categorizes apartments based on their amenities, such as swimming pool and elevator, providing insights into how specific combinations influence pricing.
 
-![Screenshot 2023-08-14 at 12.24.51 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75d211b3-c32f-413d-bd75-ae4605f08d1a/Screenshot_2023-08-14_at_12.24.51_PM.png)
+![amenities](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036221/amenity-combinations_pxwhya.png)
 
 ### **Dashboard Filters**
 
@@ -178,7 +178,7 @@ To enhance your exploration of the real estate data, I have included interactive
 
 These filters empower you to tailor the visualizations according to your interests and research questions, providing a more personalized and in-depth analysis experience.
 
-![Screenshot 2023-08-14 at 1.44.33 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de24b00c-5190-430c-b3ba-c825724916b4/Screenshot_2023-08-14_at_1.44.33_PM.png)
+![dashboard](https://res.cloudinary.com/dmxsjswbi/image/upload/v1692036222/dashboard_kumfxf.png)
 
 ### **Negotiation Type**
 
@@ -205,7 +205,7 @@ These filters empower you to tailor the visualizations according to your interes
 
 This project has provided a comprehensive analysis of the Sao Paulo real estate market, offering valuable insights that can guide potential buyers and renters in making informed decisions. Through a combination of SQL querying and Tableau visualization, we have explored various dimensions of property pricing, attributes, and neighborhood characteristics. By delving into amenities, room distribution, parking availability, and district-wise trends, we have gained a multifaceted understanding of the real estate landscape.
 
-The interactive Tableau dashboard allows users to dynamically filter and explore the dataset, offering personalized insights based on specific preferences and requirements. Whether it's choosing between sale or rent, evaluating property size, rooms, suites, bathrooms, parking spaces, or amenities, this dashboard empowers stakeholders to navigate the complexities of the market with confidence.
+The interactive Tableau dashboard allows users to dynamically filter and explore the dataset, offering personalized insights based on specific preferences and requirements. Whether it's choosing between sale or rent, or evaluating property size, rooms, suites, bathrooms, parking spaces, or amenities, this dashboard empowers stakeholders to navigate the complexities of the market with confidence.
 
 ## **Key Findings**
 
