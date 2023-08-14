@@ -1,6 +1,16 @@
 # ****Real Estate Analysis of Apartments in São Paulo, Brazil****
 
-Table of Contents
+## Table of Contents
+
+1. [Introduction](#1-introduction)
+2. [Data Cleaning and Preparation](#2-data-cleaning-and-preparation)
+3. [Exploratory Data Analysis](#3-exploratory-data-analysis)
+4. [Data Visualizations](#4-data-visualizations)
+5. [Dashboard Filters](#5-dashboard-filters)
+6. [Summary](#6-summary)
+7. [Key Findings](#7-key-findings)
+8. [Further Insights and Future Steps](#8-further-insights-and-future-steps)
+9. [GitHub Repository](#9-github-repository)
 
 ## 1. Introduction
 
