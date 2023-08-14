@@ -1,4 +1,4 @@
-[# ****Real Estate Analysis of Apartments in São Paulo, Brazil****
+# ****Real Estate Analysis of Apartments in São Paulo, Brazil****
 
 ## Table of Contents
 
