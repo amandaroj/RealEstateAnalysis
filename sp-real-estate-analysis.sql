@@ -23,6 +23,17 @@ GROUP BY
   district
 ORDER BY avg_total_price DESC;
 
+-- Average Apartment Size Per district
+SELECT
+  district,
+  ROUND(AVG(size)) AS avg_apt_size,
+FROM 
+  `saopaulorealestateproject.RealEstateSp2019.SaoPauloRealEstate`
+GROUP BY  
+  district
+ORDER BY
+  avg_apt_size DESC
+
 -- Top 10 districts with the most available apartments to buy/rent
 SELECT
   COUNT(*) AS total_apts,
