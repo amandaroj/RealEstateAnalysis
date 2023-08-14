@@ -32,7 +32,7 @@ São Paulo's intricate blend of culture, commerce, and lifestyle presents a uniq
 
 **Objective**: Analyze the real estate dataset to identify key trends, price variations, and neighborhood preferences, ultimately aiding potential buyers and renters in making data-driven choices.
 
-## 2. Data Cleaning and Preperation
+## 2. Data Cleaning and Preparation
 
 **Data Source and Initial Exploration**
 
