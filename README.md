@@ -7,7 +7,7 @@
 1.  [Introduction](#1-introduction)
 2.  [Data Cleaning and Preparation](#2-data-cleaning-and-preparation)
 3.  [Exploratory Data Analysis](#3-exploratory-data-analysis)
-4.  [Data Visualizations](#4-data-visualizations)
+4.  [Data Visualization](#4-data-visualization)
 5.  [Summary](#6-summary)
 6.  [Key Findings](#7-key-findings)
 7.  [Further Insights and Future Steps](#8-further-insights-and-future-steps)
