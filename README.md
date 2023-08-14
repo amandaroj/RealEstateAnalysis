@@ -1,4 +1,4 @@
-# ****Real Estate Analysis of Apartments in São Paulo, Brazil****
+[# ****Real Estate Analysis of Apartments in São Paulo, Brazil****
 
 ## Table of Contents
 
@@ -227,3 +227,4 @@ In conclusion, this project demonstrates the power of data analysis in guiding d
 All project files, including SQL queries, Tableau dashboard, and documentation, can be accessed in the GitHub repository: **[Link to GitHub Repository](https://github.com/yourusername/your-repo-name)**
 
 Feel free to explore, run queries, and interact with the dashboard to gain deeper insights into the Sao Paulo real estate market.
+](https://github.com/amandaroj/RealEstateAnalysis)https://github.com/amandaroj/RealEstateAnalysis
