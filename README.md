@@ -1,6 +1,6 @@
 # Real Estate Analysis of Apartments in São Paulo, Brazil 
 
-https://public.tableau.com/app/profile/amanda.rojter/viz/SoPauloBrazilRealEstateAnalysis/SaoPauloRealEstateAnalysis
+[Link to Dashboard](https://public.tableau.com/app/profile/amanda.rojter/viz/SoPauloBrazilRealEstateAnalysis/SaoPauloRealEstateAnalysis)
 
 ## Table of Contents
 
